@@ -1,0 +1,2 @@
+Unbounded и Golos Text распространяются по лицензии SIL Open Font License 1.1 (https://openfontlicense.org).
+Файлы взяты из Google Fonts: только наборы cyrillic и latin.
